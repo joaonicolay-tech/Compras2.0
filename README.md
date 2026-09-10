@@ -53,7 +53,7 @@ O sistema foi projetado para não armazenar dados sensíveis do consumidor (como
 
 Versão atual: 1.0
 Tipo: Sistema Web Local
-Fase: Em desenvolvimento
+Fase: protótipo funcional em evolução
 
 
 Projeto pessoal
