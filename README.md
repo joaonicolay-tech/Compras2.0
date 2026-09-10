@@ -9,7 +9,7 @@ Sistema web local para leitura de QR Code de NFC-e, com extração automática d
 ![Tela principal](docs/imagens/Dashboard-Principal.png)
 
 ### Leitura de QR Code
-![Leitura de QR Code](docs/imagens/Qr-code.JPEG)
+![Leitura de QR Code](docs/imagens/Qr-code.jpeg)
 
 ### Relatórios
 ![Relatórios](docs/imagens/Relatorios.png)
