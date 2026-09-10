@@ -2,6 +2,18 @@
 
 Sistema web local para leitura de QR Code de NFC-e, com extração automática de produtos e armazenamento em MySQL.
 
+
+## Demonstração
+
+### Tela principal
+![Tela principal](docs/images/Dashboard-Principal.png)
+
+### Leitura de QR Code
+![Leitura de QR Code](docs/images/Qr-code.JPEG)
+
+### Relatórios
+![Relatórios](docs/images/Relatorios.png)
+
 ## 📋 Sobre o Projeto
 
 O **compras2.0** é um sistema web local que automatiza o registro de compras de supermercado a partir do QR Code presente na **Nota Fiscal Eletrônica de Consumidor (NFC-e)**. 
